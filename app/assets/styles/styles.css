@@ -1,0 +1,11 @@
+body {
+  color: blue;
+}
+
+$mainRed: red;
+
+.card {
+  h1 {
+    color: $mainRed;
+  }
+}
